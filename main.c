@@ -4,7 +4,7 @@
 int main(int argc, char *argv[])
 {
 	int x = 0;
-	int y = 0;
+	int y = 9999;
 
 	printf("largeur : ");
 	scanf("%d", &x);
